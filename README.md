@@ -1,15 +1,21 @@
 # POWER BI-Procurement Performance Analysis
 ## I. Introduction
 ### 1. Introduction to Dataset
-* Dataset: **Global Superstore Sales**
-- Dataset stores sales information of some products of a company worldwide
-- Consists of 3 data tables:
-  - Table 1: **Orders**: Fact order
-  - Table 2: **People**: Information of Sales person
-  - Table 3: **Returns**: Information of Returned orders
+* Dataset: **AdventureWorks database**
+- The Dataset supports standard online transaction processing scenarios for a fictitious bicycle manufacturer.
+- Data tables:
+    - Purchasing.PurchaseOrderDetail: Individual products associated with a specific purchase order.
+    - Purchasing.ProductVendor: Cross-reference table mapping vendors with the products they supply.
+    - Purchasing.OrderHeader: General purchase order information.
+    - Purchasing.Vendor: Companies from whom Adventure Works Cycles purchases parts or other goods.
+    - Purchasing.ShipMethod : Shipping company lookup table.
+    - DimDate: Stores calendar-related data.
+    - Production.Product: Products sold or used in the manufacturing of sold products.
+    - Production.ProductSubcategory: Stores information about product subcategories.
+    - Production.Productsubcategories: High-level product categorization.
 ### 2. Data Dictionary
 ![image](https://user-images.githubusercontent.com/101726623/235484439-cc348e38-5a4b-48a5-aee0-ad5de3ea35ee.png)
 
 ### 3. Business Questions
-- Presenting business situation in international markets to Senior Manager.
-- Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
+- How can we ensure that purchases are made in the right quantity, on time, and at the best price?
+- What insights can optimize the procurement process and improve operational efficiency?
