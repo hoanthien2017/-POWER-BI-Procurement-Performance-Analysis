@@ -44,12 +44,11 @@
 
 ### Stage 2: Define POV 
 ![image](https://github.com/user-attachments/assets/108d1624-9a64-440e-9e94-48dfa575924a)
-![image](https://github.com/user-attachments/assets/0ddf6534-3e0a-4129-afff-43a8f4206684)
-
+![image](https://github.com/user-attachments/assets/bce4d87c-6654-4e87-9f0e-858aa815a7e6)
 
 ### Step 3 - Ideate
 ![image](https://github.com/user-attachments/assets/29d02d59-4c91-4598-b523-3ab1c0ee7f11)
-![image](https://github.com/user-attachments/assets/a3f0ab3d-8370-4f1e-98e8-ae662b2448a7)
+![image](https://github.com/user-attachments/assets/9f0b84f9-a7d4-4219-8573-8f93a99425d5)
 
 
 ### Step 4 - Prototype
@@ -61,48 +60,29 @@
 
 ## III. Visualization
 ### 1. Dashboard Dictionary
-- **Total Procurement Cost**: The total amount of money spent on purchasing products or services over a specific period.
-
-- **Number of Purchase Orders**:  The total number of individual orders placed to purchase products.
-
-- **Number of Vendors**: The number of different suppliers or companies from which products or services are purchased.
-
-- **Monthly Procurement Cost**: The amount of money spent on procurement each month.
-
-- **Yearly Procurement Cost**: The total procurement cost for an entire year.
-
-- **Avg Unit Price**: The average cost per unit of product purchased from vendors.
-
-- **Credit Rating**: A score that indicates how reliable a vendor is, often based on their financial stability and past performance.
-
-- **Avg Order-to-Delivery Days**: The average number of days it takes from when an order is placed until it is delivered.
-
-- **Avg Order-to-Ship Days**: The average time it takes for an order to be processed and shipped.
-
-- **Order Fulfillment Rate**: The percentage of orders that are completed exactly as requested.
-
-- **Order Fulfillment Rate - Full Order**: The percentage of orders that are delivered completely and on time by vendors. This rate only considers orders that are fulfilled 100%; anything below 100% is not counted.
-
-- **Vendor Reliability Score**: A score or measure of how consistently a vendor meets Three expectations including low average unit price, low average order-to-delivery days, high average fulfillment rate - full order (from 1-6).
-
-- **Product Reliability Score**: A score or measure of how consistently a vendor meets Three expectations including low average unit price, low average Order-to-Ship Time, high average fulfillment rate (from 1-6).
-
-- **Vendor Ranking**: A ranking system for vendors based on performance metrics such as product quality, delivery times, and customer service reliability.
-
-- **Product Ranking**: A ranking system for products based on factors such as quality, customer satisfaction, and durability.
-
-- **Vendor Breakdown**: A categorization of vendors based on their Vendor Reliability, such as "Best Vendors" or "Worst Vendors."
-
-- **Avg Quantity Ordered**: The average number of units ordered per purchase.
-
-- **Status Rate**: A visual representation of the status of orders, often shown as a pie chart indicating approved, pending, or rejected orders.
-
-- **Order Requirement**: Summary data showing the minimum, maximum, and average quantities ordered, as well as the average days to ship and fulfillment percentage.
-
-- **Cost Distribution Overview**: A breakdown of the different costs involved in procurement, such as purchase subtotal, shipping cost, and tax cost.
-
-- **Subtotal**: The total amount of all items in a purchase order before adding taxes and shipping costs. It is calculated by summing up all individual line item totals for a specific purchase order.
-
+| **Metric**                          | **Definition**                                                                                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Total Procurement Cost**          | The total amount of money spent on purchasing products or services over a specific period.                                                                         |
+| **Number of Purchase Orders**      | The total number of individual orders placed to purchase products.                                                                                                |
+| **Number of Vendors**              | The number of different suppliers or companies from which products or services are purchased.                                                                     |
+| **Monthly Procurement Cost**       | The amount of money spent on procurement each month.                                                                                                              |
+| **Yearly Procurement Cost**        | The total procurement cost for an entire year.                                                                                                                     |
+| **Avg Unit Price**                 | The average cost per unit of product purchased from vendors.                                                                                                      |
+| **Credit Rating**                  | A score that indicates how reliable a vendor is, often based on their financial stability and past performance.                                                    |
+| **Avg Order-to-Delivery Days**     | The average number of days it takes from when an order is placed until it is delivered.                                                                           |
+| **Avg Order-to-Ship Days**         | The average time it takes for an order to be processed and shipped.                                                                                                |
+| **Order Fulfillment Rate**         | The percentage of orders that are completed exactly as requested.                                                                                                 |
+| **Order Fulfillment Rate - Full Order** | The percentage of orders that are delivered completely and on time by vendors. This rate only considers orders that are fulfilled 100%; anything below 100% is not counted. |
+| **Vendor Reliability Score**       | A score or measure of how consistently a vendor meets three expectations including low average unit price, low average order-to-delivery days, and high fulfillment rate (from 1-6). |
+| **Product Reliability Score**      | A score or measure of how consistently a vendor meets three expectations including low average unit price, low average order-to-ship time, and high fulfillment rate (from 1-6). |
+| **Vendor Ranking**                 | A ranking system for vendors based on performance metrics such as product quality, delivery times, and customer service reliability.                             |
+| **Product Ranking**                | A ranking system for products based on factors such as quality, customer satisfaction, and durability.                                                            |
+| **Vendor Breakdown**               | A categorization of vendors based on their Vendor Reliability, such as "Best Vendors" or "Worst Vendors."                                                          |
+| **Avg Quantity Ordered**           | The average number of units ordered per purchase.                                                                                                                 |
+| **Status Rate**                    | A visual representation of the status of orders, often shown as a pie chart indicating approved, pending, or rejected orders.                                      |
+| **Order Requirement**              | Summary data showing the minimum, maximum, and average quantities ordered, as well as the average days to ship and fulfillment percentage.                         |
+| **Cost Distribution Overview**     | A breakdown of the different costs involved in procurement, such as purchase subtotal, shipping cost, and tax cost.                                                 |
+| **Subtotal**                       | The total amount of all items in a purchase order before adding taxes and shipping costs. It is calculated by summing up all individual line item totals for a specific purchase order. |
 
 ### 2. Overall procurement performance
 ![image](https://github.com/user-attachments/assets/ab13d4a3-bfb7-433c-8614-da429b9741ca)
