@@ -87,9 +87,9 @@
 
 - **Product Reliability Score**: A score or measure of how consistently a vendor meets Three expectations including low average unit price, low average Order-to-Ship Time, high average fulfillment rate (from 1-6).
 
-- **Vendor Ranking**: A rank given to products, vendors, or categories based on performance metrics like reliability of products or vendors.
+- **Vendor Ranking**: A ranking system for vendors based on performance metrics such as product quality, delivery times, and customer service reliability.
 
-- **Product Ranking**: A rank given to products, vendors, or categories based on performance metrics like reliability of products or vendors.
+- **Product Ranking**: A ranking system for products based on factors such as quality, customer satisfaction, and durability.
 
 - **Vendor Breakdown**: A categorization of vendors based on their Vendor Reliability, such as "Best Vendors" or "Worst Vendors."
 
@@ -104,8 +104,6 @@
 - **Subtotal**: The total amount of all items in a purchase order before adding taxes and shipping costs. It is calculated by summing up all individual line item totals for a specific purchase order.
 
 
-
-
 ### 2. Overall procurement performance
 ![image](https://github.com/user-attachments/assets/ab13d4a3-bfb7-433c-8614-da429b9741ca)
 
@@ -114,3 +112,28 @@
 
 ### 4. Product Analysis
 ![image](https://github.com/user-attachments/assets/76edfe57-4397-490f-98e5-3172ca1777ca)
+
+## IV. Insights and recommendations 
+1. **Reduce Lead Time**  
+- Lead time increased from 17 to 41 days between 2011 and 2013, now at 38 days in 2014. Focus on optimizing this to ensure timely deliveries.
+
+2. **Maintain High Fulfillment Rate**  
+- Fulfillment rate improved from 85% in 2011 to 97% in 2014. Keep this momentum by closely monitoring supplier performance.
+
+3. **Summary Vendor Insight**  
+- Vendor performance is strong, with a high fulfillment rate 98% and $35.30 in average unit price, indicating better cost management. However, reducing the average delivery time of 22 days could further optimize operations.
+
+4. **Key Vendor Insight**  
+- Comfort Road Bicycles excels with a 100% fulfillment rate, a competitive unit price of $22, and a swift delivery time of 15 days, making it a critical and efficient supplier.
+
+5. **Bottom Vendor Insight**  
+- American Bicycles and Wheels, despite a 98% fulfillment rate, has a high unit price of $57.00 and a longer delivery time of 17 days. Reevaluation of this vendor could improve both cost and delivery efficiency.
+
+6. **Summary Product Insight**  
+- High fulfillment rates (97-99%) and stable 9-day delivery times indicate reliable procurement. A slight drop in average unit prices, especially in 2014, reflects effective cost management.
+
+7. **Key Product Insight**  
+- Clothing is a top performer with 100% fulfillment, competitive unit prices, and consistent 9-day delivery, ensuring timely availability for sales and production.
+
+8. **Bottom Product Insight**  
+- Pedals show lower fulfillment rates (95-98.5%) and higher costs ($51.44 in 2011). Despite consistent 9-day delivery, there's a need to improve supplier efficiency and cost management.
