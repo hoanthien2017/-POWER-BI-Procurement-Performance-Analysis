@@ -61,131 +61,49 @@
 
 ## III. Visualization
 ### 1. Dashboard Dictionary
-<details>
-<summary><b>Total Procurement Cost</b></summary>
-- <b>Definition</b>: The total amount of money spent on purchasing products or services over a specific period.<br>
-- <b>Example</b>: If you spend $1 million each month on procurement, your total procurement cost for the year would be $12 million.
-</details>
+- **Total Procurement Cost**: The total amount of money spent on purchasing products or services over a specific period.
 
-<details>
-<summary><b>Number of Purchase Orders</b></summary>
-- <b>Definition</b>:  The total number of individual orders placed to purchase products.<br>
-- <b>Example</b>: If you place 100 orders in a year, this number would reflect that total.
-</details>
+- **Number of Purchase Orders**:  The total number of individual orders placed to purchase products.
 
-<details>
-<summary><b>Number of Vendors</b></summary>
-- <b>Definition</b>: The number of different suppliers or companies from which products or services are purchased.<br>
-- <b>Example</b>: If you buy from 5 different suppliers, you have 5 vendors.
-</details>
+- **Number of Vendors**: The number of different suppliers or companies from which products or services are purchased.
 
-<details>
-<summary><b>Monthly Procurement Cost</b></summary>
-- <b>Definition</b>: The amount of money spent on procurement each month.<br>
-- <b>Example</b>: If you spend $500,000 in January and $600,000 in February, these would be your monthly procurement costs.
-</details>
+- **Monthly Procurement Cost**: The amount of money spent on procurement each month.
 
-<details>
-<summary><b>Yearly Procurement Cost</b></summary>
-- <b>Definition</b>: The total procurement cost for an entire year.<br>
-- <b>Example</b>: The total amount spent on procurement in the year 2023.
-</details>
+- **Yearly Procurement Cost**: The total procurement cost for an entire year.
 
-<details>
-<summary><b>Avg Unit Price</b></summary>
-- <b>Definition</b>: The average cost per unit of product purchased from vendors.<br>
-- <b>Example</b>: If you buy 10 items at $50 each, the average unit price is $50.
-</details>
+- **Avg Unit Price**: The average cost per unit of product purchased from vendors.
 
-<details>
-<summary><b>Credit Rating</b></summary>
-- <b>Definition</b>: A score that indicates how reliable a vendor is, often based on their financial stability and past performance.<br>
-- <b>Example</b>: A higher credit rating means the vendor is more trustworthy.
-</details>
+- **Credit Rating**: A score that indicates how reliable a vendor is, often based on their financial stability and past performance.
 
-<details>
-<summary><b>Avg Order-to-Delivery Days</b></summary>
-- <b>Definition</b>: The average number of days it takes from when an order is placed until it is delivered.<br>
-- <b>Example</b>: If you order something on January 1st and receive it on January 22nd, the order-to-delivery time is 22 days.
-</details>
+- **Avg Order-to-Delivery Days**: The average number of days it takes from when an order is placed until it is delivered.
 
-<details>
-<summary><b>Avg Order-to-Ship Days</b></summary>
-- <b>Definition</b>: The average time it takes for an order to be processed and shipped.<br>
-- <b>Example</b>: If orders take 5 days on average to be shipped after being placed, this is your avg order-to-ship time.
-</details>
+- **Avg Order-to-Ship Days**: The average time it takes for an order to be processed and shipped.
 
-<details>
-<summary><b>Order Fulfillment Rate</b></summary>
-- <b>Definition</b>: The percentage of orders that are completed exactly as requested.<br>
-- <b>Example</b>: If you place 100 orders and 96 are delivered as requested, the fulfillment rate is 96%.
-</details>
+- **Order Fulfillment Rate**: The percentage of orders that are completed exactly as requested.
 
-<details>
-<summary><b>Order Fulfillment Rate - Full Order</b></summary>
-- <b>Definition</b>: The percentage of orders that are delivered completely and on time by vendors. This rate only considers orders that are fulfilled 100%; anything below 100% is not counted.<br>
-- <b>Example</b>: If all 100 orders are delivered on time and complete, the fulfillment rate is 100%. If any order is less than 100%, it does not contribute to the fulfillment rate.
-</details>
+- **Order Fulfillment Rate - Full Order**: The percentage of orders that are delivered completely and on time by vendors. This rate only considers orders that are fulfilled 100%; anything below 100% is not counted.
 
-<details>
-<summary><b>Vendor Reliability Score</b></summary>
-- <b>Definition</b>: A score or measure of how consistently a vendor meets Three expectations including low average unit price, low average order-to-delivery days, high average fulfillment rate - full order (from 1-6).<br>
-- <b>Example</b>: A reliability score of 1 might indicate Highest reliability.
-</details>
+- **Vendor Reliability Score**: A score or measure of how consistently a vendor meets Three expectations including low average unit price, low average order-to-delivery days, high average fulfillment rate - full order (from 1-6).
 
-<details>
-<summary><b>Product Reliability Score</b></summary>
-- <b>Definition</b>: A score or measure of how consistently a vendor meets Three expectations including low average unit price, low average Order-to-Ship Time, high average fulfillment rate (from 1-6).<br>
-- <b>Example</b>: A reliability score of 1 might indicate Highest reliability.
-</details>
+- **Product Reliability Score**: A score or measure of how consistently a vendor meets Three expectations including low average unit price, low average Order-to-Ship Time, high average fulfillment rate (from 1-6).
 
-<details>
-<summary><b>Vendor Ranking</b></summary>
-- <b>Definition</b>: A rank given to products, vendors, or categories based on performance metrics like reliability of products or vendors.<br>
-- <b>Example</b>: A Vendor with the highest vendor reliability might be ranked 1st.
-</details>
+- **Vendor Ranking**: A rank given to products, vendors, or categories based on performance metrics like reliability of products or vendors.
 
-<details>
-<summary><b>Product Ranking</b></summary>
-- <b>Definition</b>: A rank given to products, vendors, or categories based on performance metrics like reliability of products or vendors.<br>
-- <b>Example</b>: A product with the highest product reliability might be ranked 1st.
-</details>
+- **Product Ranking**: A rank given to products, vendors, or categories based on performance metrics like reliability of products or vendors.
 
-<details>
-<summary><b>Vendor Breakdown</b></summary>
-- <b>Definition</b>: A categorization of vendors based on their Vendor Reliability, such as "Best Vendors" or "Worst Vendors."<br>
-- <b>Example</b>: Vendors with the highest fulfillment rates and lowest prices might be classified as "Best Vendors."
-</details>
+- **Vendor Breakdown**: A categorization of vendors based on their Vendor Reliability, such as "Best Vendors" or "Worst Vendors."
 
-<details>
-<summary><b>Avg Quantity Ordered</b></summary>
-- <b>Definition</b>: The average number of units ordered per purchase.<br>
-- <b>Example</b>: If you order 200 units one time and 300 units another time, the average is 250 units.
-</details>
+- **Avg Quantity Ordered**: The average number of units ordered per purchase.
 
-<details>
-<summary><b>Status Rate</b></summary>
-- <b>Definition</b>: A visual representation of the status of orders, often shown as a pie chart indicating approved, pending, or rejected orders.<br>
-- <b>Example</b>: A pie chart showing 92% of orders are approved and 8% are pending.
-</details>
+- **Status Rate**: A visual representation of the status of orders, often shown as a pie chart indicating approved, pending, or rejected orders.
 
-<details>
-<summary><b>Order Requirement</b></summary>
-- <b>Definition</b>: Summary data showing the minimum, maximum, and average quantities ordered, as well as the average days to ship and fulfillment percentage.<br>
-- <b>Example</b>: It might show that the smallest order was 10 units, the largest was 1,000 units, and the average order was 500 units.
-</details>
+- **Order Requirement**: Summary data showing the minimum, maximum, and average quantities ordered, as well as the average days to ship and fulfillment percentage.
 
-<details>
-<summary><b>Cost Distribution Overview</b></summary>
-- <b>Definition</b>: A breakdown of the different costs involved in procurement, such as purchase subtotal, shipping cost, and tax cost.<br>
-- <b>Example</b>: A pie chart showing that 90% of costs are for the product itself, 7% for shipping, and 3% for taxes.
-</details>
+- **Cost Distribution Overview**: A breakdown of the different costs involved in procurement, such as purchase subtotal, shipping cost, and tax cost.
 
-<details>
-<summary><b>Subtotal</b></summary>
-- <b>Definition</b>: The total amount of all items in a purchase order before adding taxes and shipping costs. It is calculated by summing up all individual line item totals for a specific purchase order.<br>
-- <b>Example</b>: If a vendor's Active Flag is set to 1, the vendor is currently supplying products.
-</details>
+- **Subtotal**: The total amount of all items in a purchase order before adding taxes and shipping costs. It is calculated by summing up all individual line item totals for a specific purchase order.
+
+
 
 
 ### 2. Overall procurement performance
