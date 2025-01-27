@@ -37,28 +37,27 @@
   
 ## II. Design Thinking Method
 **Here are the five steps of design thinking:**
-### Stage 1: Empathize - Broad view
+### Stage 1: Empathize 
 ![image](https://github.com/user-attachments/assets/71af896a-ce87-4906-9b36-fd93692bf99a)
 ![image](https://github.com/user-attachments/assets/010e1e29-825d-4f6c-b7f3-b8d8a11c4281)
 
 
-### Stage 2: Define POV - 
-![image](https://github.com/user-attachments/assets/9239809b-29b5-4110-a0a4-2eebe8c0eb39)
-![image](https://github.com/user-attachments/assets/8fa2ebad-4076-4042-a4a0-5ff265c4f413)
-
-
+### Stage 2: Define POV 
+![image](https://github.com/user-attachments/assets/108d1624-9a64-440e-9e94-48dfa575924a)
+![image](https://github.com/user-attachments/assets/0ddf6534-3e0a-4129-afff-43a8f4206684)
 
 
 ### Step 3 - Ideate
-![image](https://github.com/user-attachments/assets/62ccb07c-9d93-490e-9668-a4b80a582f4a)
-
+![image](https://github.com/user-attachments/assets/29d02d59-4c91-4598-b523-3ab1c0ee7f11)
+![image](https://github.com/user-attachments/assets/a3f0ab3d-8370-4f1e-98e8-ae662b2448a7)
 
 
 ### Step 4 - Prototype
-![image](https://user-images.githubusercontent.com/101726623/235493217-979bea4d-019b-414e-a94b-f1794b95eccf.png)
+![image](https://github.com/user-attachments/assets/04236226-ebcc-42a2-9323-85e1c3f298a7)
 
 ### Step 5 - Review
-![image](https://user-images.githubusercontent.com/101726623/235493257-a4fff02c-da02-4e4c-87bf-62b454905e67.png)
+![image](https://github.com/user-attachments/assets/98330772-b751-4cd4-9d00-0a0e52692b7e)
+
 
 ## III. Visualization
 ### 1. Overview
