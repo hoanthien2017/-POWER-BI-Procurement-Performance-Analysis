@@ -41,7 +41,6 @@
 ![image](https://github.com/user-attachments/assets/71af896a-ce87-4906-9b36-fd93692bf99a)
 ![image](https://github.com/user-attachments/assets/010e1e29-825d-4f6c-b7f3-b8d8a11c4281)
 
-
 ### Stage 2: Define POV 
 ![image](https://github.com/user-attachments/assets/108d1624-9a64-440e-9e94-48dfa575924a)
 ![image](https://github.com/user-attachments/assets/bce4d87c-6654-4e87-9f0e-858aa815a7e6)
@@ -84,13 +83,16 @@
 | **Cost Distribution Overview**     | A breakdown of the different costs involved in procurement, such as purchase subtotal, shipping cost, and tax cost.                                                 |
 | **Subtotal**                       | The total amount of all items in a purchase order before adding taxes and shipping costs. It is calculated by summing up all individual line item totals for a specific purchase order. |
 
-### 2. Overall procurement performance
+### 2. Data Schema
+![image](https://github.com/user-attachments/assets/3e2c69c5-1c86-40b4-8cdc-3d97dceb5bb2)
+
+### 3. Overall procurement performance
 ![image](https://github.com/user-attachments/assets/ab13d4a3-bfb7-433c-8614-da429b9741ca)
 
-### 3. Vendors Analysis
+### 4. Vendors Analysis
 ![image](https://github.com/user-attachments/assets/77e308c2-fce1-4107-b7fa-d5cd09464d47)
 
-### 4. Product Analysis
+### 5. Product Analysis
 ![image](https://github.com/user-attachments/assets/76edfe57-4397-490f-98e5-3172ca1777ca)
 
 ## IV. Insights and recommendations 
